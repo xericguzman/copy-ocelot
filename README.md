@@ -17,6 +17,8 @@ Our mission today is to copy one of the following websites:
 
 And you'll do it using Flexbox OR Grid. Your choice!
 
+Or BOTH? Sure!
+
 
 ### Guidelines
 
