@@ -1,34 +1,42 @@
+
 # Copy Ocelot
 
-### Introduction
+For this assignment, we'll be recreating a more complex website than anything we've tried so far. Any CSS is on the table (flex, grid, etc.) so it's up to you how you want to build this.
 
-Our mission today is to copy one of the following websites:
+<img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg?crop=0,93,1600,880&wid=4000&hei=2200&scl=0.4" width="400px"/>
 
-* [eBay](https://www.ebay.com/)
-* [Square](https://squareup.com/us/en)
-* [Etsy](https://www.etsy.com/)
-* [Monster](https://www.monster.com/)
-* [WordPress](https://wordpress.com/)
-* [unsplash](https://unsplash.com/)
-* [Lokai](https://lokai.com)
-* [NY Times](https://www.nytimes.com/)
-* [Medium](https://medium.com/)
-* [GrubHub](https://www.grubhub.com/)
+## Instructions
 
-And you'll do it using Flexbox OR Grid. Your choice!
+Start of by choosing one of the following websites to copy:
 
-Or BOTH? Sure!
+### [Weather.com](https://weather.com/)
 
+The whole thing!
 
-### Guidelines
+### [Anthony's Profile on Populi](https://dfa.populiweb.com/router/contacts/people/23356688)
 
-* This will be a solo project.
-* You _only_ have to copy the main page, but you _do_ have to copy past the opening viewport. In human speak: you need to copy all the way down to the bottom of the main page. Or as far down as you can get!
-* Copy all text verbatim using copy-paste; if it's not selectable, take the equivalent amount of text from a lorem ipsum generator. Do _not_ screenshot it, as an image will respond differently to viewport changes than text will.
-* But _do_ save or screenshot _images_.
-* For videos, either link to the original video using a `video` tag, or simply screenshot the video and implement it as a still image.
+The whole thing!
+
+### [The GitHub Repository for the Linux Kernel](https://github.com/torvalds/linux)
+
+The whole thing!
+
+### [This Question on Stack Overflow](https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit)
 
 
-### Stretch Goals
+The whole thing except you only have to include one of the many answers to the question in your recreation. You can also ignore the right sidebar (the yellow section and content below it).
 
-* Copy another page!
+### A Wildcard??
+
+You can also choose a different site sith similar complexity to the four options listed. If you choose to do this, just run it by Mesi or Alex first.
+
+## Tips
+
+* It's okay if it isn't 100% perfect!
+* To get started, try taking a screenshot of the page and drawing boxes on it to create a plan for how you'll structure your HTML
+* In the browser, use `[CMD][c]` to open the developer tools and inspect your target website
+
+## Stretch Goals
+
+* Add various [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp) for when you hover over various elements on your page. It's okay if these deviate from the original page in question, go wild!
+* Try restarting and recreating another page!
