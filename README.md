@@ -11,19 +11,11 @@ Start of by choosing one of the following websites to copy:
 
 ### [Weather.com](https://weather.com/)
 
-The whole thing!
-
 ### [Anthony's Profile on Populi](https://dfa.populiweb.com/router/contacts/people/23356688)
-
-The whole thing!
 
 ### [The GitHub Repository for the Linux Kernel](https://github.com/torvalds/linux)
 
-The whole thing!
-
 ### [This Question on Stack Overflow](https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit)
-
-The whole thing except you only have to include one of the many answers to the question in your recreation. You can also ignore the right sidebar (the yellow section and content below it).
 
 ### A Wildcard??
 
