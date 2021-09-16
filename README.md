@@ -23,7 +23,6 @@ The whole thing!
 
 ### [This Question on Stack Overflow](https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit)
 
-
 The whole thing except you only have to include one of the many answers to the question in your recreation. You can also ignore the right sidebar (the yellow section and content below it).
 
 ### A Wildcard??
@@ -34,7 +33,7 @@ You can also choose a different site sith similar complexity to the four options
 
 * It's okay if it isn't 100% perfect!
 * To get started, try taking a screenshot of the page and drawing boxes on it to create a plan for how you'll structure your HTML
-* In the browser, use `[CMD][c]` to open the developer tools and inspect your target website
+* In the browser, use `[CMD][SHIFT][c]` to open the developer tools and inspect your target website
 
 ## Stretch Goals
 
