@@ -98,7 +98,7 @@
 
 .footer {
     display: flex;
-    justify-content: left;
+    justify-content: space-evenly;
     align-content: flex-start;
     padding: 10px;
     border: gray;
