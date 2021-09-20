@@ -1,0 +1,106 @@
+.body {
+    margin: 0px;
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: black;
+}
+
+.nav-wrapper-bottom {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    background-color: black;
+}
+
+.nav-wrapper-second {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: navy;
+}
+
+.left-side {
+    display: flex;
+
+}
+
+.profile {
+    display: flex;
+    justify-content: left;
+    align-content: flex-start;
+    padding: 10px;
+    border: gray;
+    background-color: lightgray;
+}
+
+
+/* Nav Styles */
+.nav-wrapper > .left-side > div {
+    margin-right: 10px;
+    font-size: medium;
+    text-transform: capitalize;
+}
+
+.nav-link-wrapper {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.nav-link-wrapper a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.5s;
+
+}
+
+.nav-link-wrapper:hover {
+    border-bottom: 1px gray;
+}
+
+.nav-link-wrapper a:hover {
+    color: gray;
+}
+
+.bar-right {
+    color: white;
+    justify-content: space-evenly;
+}
+
+.header-logo-bar {
+    display: flex;
+    justify-content: left;
+    padding: 5px;
+    background-color: navy;
+
+}
+
+.header-logo-copy {
+    display: flex;
+    color: white;
+}
+
+.nav-wrapper-second > .left-side > div {
+    margin-right: 10px;
+    font-size: medium;
+    text-transform: capitalize; 
+}
+
+.profile-info {
+    display:flex;
+    justify-content: space-evenly;
+    align-content: left;
+}
+
+.footer {
+    display: flex;
+    justify-content: left;
+    align-content: flex-start;
+    padding: 10px;
+    border: gray;
+    background-color: lightgray;
+}
